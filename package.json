@@ -1,0 +1,15 @@
+{
+  "name": "azure-storage-init-containers",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viters/azure-storage-init-containers"
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.8.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
